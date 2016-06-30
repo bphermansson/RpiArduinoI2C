@@ -1,5 +1,14 @@
 // https://github.com/bphermansson/RpiArduinoI2C
 
+/*
+ * Upload changes to Github:
+ * git commit AS2.py
+ * git push origin master
+ * Update from Github
+ * git pull * 
+ * 
+ */
+ 
 // For I2C:
 #include <Wire.h>
 #define SLAVE_ADDRESS 0x04
